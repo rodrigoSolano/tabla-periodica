@@ -1,0 +1,116 @@
+n_atomico,simbolo,nombre,masa,periodo,grupo,estructura,conf_electronica,descubrimiento,densidad,tipo,fila,columna
+1,H,Hidrogeno,"1,007",1,1,Hexagonal, 1s1,1766,"0,0899",otros_no_metales,1,1
+2,He,Helio,"4,002",1,18,Hexagonal, 1s2,1895,"0,1785",gases_nobles,1,18
+3,Li,Litio,"6,941",2,1,Cubica centrada en el cuerpo, [He] 2s1,1817,535,metales_alcalinos,2,1
+4,Be,Berilio,"9,012",2,2,Cubica simple, [He] 2s2,1797,1848,metales_alcalinoterreos,2,2
+5,B,Boro,"10,81",2,13,Romboedrica, [He] 2s2 2p1 ,1808,2460,metaloides,2,13
+6,C,Carbono,"12,01",2,14,Hexagonal, [He] 2s2 2p2,Prehistoria,2267,otros_no_metales,2,14
+7,N,Nitrogeno,"14,00",2,15,Hexagonal, [He] 2s2 2p3,1772,"1,2506",otros_no_metales,2,15
+8,O,Oxigeno,"15,99",2,16,Cubica simple, [He] 2s2 2p4,1774,"1,429",otros_no_metales,2,16
+9,F,Fluor,"18,99",2,17,Cubica simple, [He] 2s2 2p5 ,1886,"1,696",halogenos,2,17
+10,Ne,Neon,"20,17",2,18,Cubica centrada en caras, [He] 2s2 2p6 ,1898,"0,8999",gases_nobles,2,18
+11,Na,Sodio,"22,98",3,1,Cubica centrada en el cuerpo, [Ne] 3s1 ,1807,968,metales_alcalinos,3,1
+12,Mg,Magnesio,"24,30",3,2,Hexagonal, [Ne] 3s2 ,1755,1738,metales_alcalinoterreos,3,2
+13,Al,Aluminio,"26,98",3,13,Cubica centrada en caras, [Ne] 3s2 3p1 ,1825,"2698,4",metales_bloque_p,3,13
+14,Si,Silicio,"28,08",3,14,Cubica centrada en caras, [Ne] 3s2 3p2 ,1824,"2,33",metaloides,3,14
+15,P,Fosforo,"30,97",3,15,Cubica simple, [Ne] 3s2 3p3 ,1669,1823,otros_no_metales,3,15
+16,S,Azufre,"32,06",3,16,Cubica centrada en caras, [Ne] 3s2 3p4 ,Prehistoria,1960,otros_no_metales,3,16
+17,Cl,Cloro,"35,45",3,17,Ortorrombica centrada en las bases, [Ne] 3s2 3p5 ,1774,"3,214",halogenos,3,17
+18,Ar,Argon,"39,94",3,18,Cubica centrada en caras, [Ne] 3s2 3p6 ,1894,"1,784",gases_nobles,3,18
+19,K,Potasio,"39,09",4,1,Cubica centrada en caras, [Ar] 4s1 ,1807,856,metales_alcalinos,4,1
+20,Ca,Calcio,"40,07",4,2,Cubica centrada en caras, [Ar] 4s1 ,1808,1550,metales_alcalinoterreos,4,2
+21,Sc,Escandio,"44,95",4,3,Hexagonal, [Ar] 3d1 4s2 ,1879,2985,metales_transicion,4,3
+22,Ti,Titanio,"47,86",4,4,Hexagonal, [Ar] 3d2 4s2 ,1791,4507,metales_transicion,4,4
+23,Va,Vanadio,"50,94",4,5,Cubica centrada en el cuerpo, [Ar] 3d3 4s2 ,1801,6110,metales_transicion,4,5
+24,Cr,Cromo,"51,99",4,6,Cubica centrada en el cuerpo, [Ar] 3d5 4s1 ,1797,7140,metales_transicion,4,6
+25,Mn,Manganeso,"54,93",4,7,Cubica centrada en el cuerpo, [Ar] 3d5 4s2 ,1774,7430,metales_transicion,4,7
+26,Fe,Hierro,"55,84",4,8,Cubica centrada en el cuerpo, [Ar] 3d6 4s2 ,Prehistoria,7874,metales_transicion,4,8
+27,Co,Cobalto,"58,93",4,9,Cubica centrada en caras, [Ar] 3d7 4s2 ,1735,8900,metales_transicion,4,9
+28,Ni,Niquel,"58,69",4,10,Cubica centrada en caras, [Ar] 3d8 4s2 ,1751,8908,metales_transicion,4,10
+29,Cu,Cobre,"63,54",4,11,Cubica centrada en caras, [Ar] 3d10 4s1 ,Prehistoria,8960,metales_transicion,4,11
+30,Zn,Zinc,"65,40",4,12,Hexagonal, [Ar] 3d10 4s2 ,Prehistoria,7140,metales_transicion,4,12
+31,Ga,Galio,"69,72",4,13,Ortorrombica centrada en las bases, [Ar] 3d10 4s2 4p1 ,1875,5904,metales_bloque_p,4,13
+32,Ge,Germanio,"72,64",4,14,Cubica centrada en las caras, [Ar] 3d10 4s2 4p2 ,1886,5323,metaloides,4,14
+33,As,Arsenico,"74,92",4,15,Romboedrica, [Ar] 3d10 4s2 4p3 ,1250,5727,metaloides,4,15
+34,Se,Selenio,"78,96",4,16,Hexagonal, [Ar] 3d10 4s2 4p4 ,1817,4790,otros_no_metales,4,16
+35,Br,Bromo,"79,90",4,17,Ortorrombica centrada en las bases, [Ar] 3d10 4s2 4p5 ,1826,3119,halogenos,4,17
+36,Kr,Kripton,"83,79",4,18,Cubica centrada en las caras, [Ar] 3d10 4s2 4p6 ,1898,"3,708",gases_nobles,4,18
+37,Rb,Rubidio,"85,46",5,1,Cubica centrada en el cuerpo, [Kr] 5s1 ,1861,1532,metales_alcalinos,5,1
+38,Sr,Estroncio,"87,62",5,2,Cubica centrada en las caras, [Kr] 5s2 ,1790,2630,metales_alcalinoterreos,5,2
+39,Y,Itrio,"88,90",5,3,Hexagonal, [Kr] 4d1 5s2 ,1794,4472,metales_transicion,5,3
+40,Zr,Circonio,"91,22",5,4,Hexagonal, [Kr] 4d2 5s2 ,1789,6501,metales_transicion,5,4
+41,Nb,Niobio,"92,90",5,5,Cubica centrada en el cuerpo, [Kr] 4d4 5s1 ,1801,8570,metales_transicion,5,5
+42,Mo,Molibdeno,"95,94",5,6,Cubica centrada en el cuerpo, [Kr] 4d5 5s1 ,1778,10280,metales_transicion,5,6
+43,Tc,Tecnecio,"98,90",5,7,Hexagonal, [Kr] 4d6 5s1 ,1937,11500,metales_transicion,5,7
+44,Ru,Rutenio,"101,0",5,8,Hexagonal, [Kr] 4d7 5s1 ,1844,12370,metales_transicion,5,8
+45,Rh,Rodio,"102,9",5,9,Cubica centrada en las caras, [Kr] 4d8 5s1 ,1803,12450,metales_transicion,5,9
+46,Pd,Paladio,"106,4",5,10,Cubica centrada en las caras, [Kr] 4d10 ,1803,12023,metales_transicion,5,10
+47,Ag,Plata,"107,8",5,11,Cubica centrada en las caras, [Kr] 4d10 5s1 ,Prehistoria,10490,metales_transicion,5,11
+48,Cd,Cadmio,"112,4",5,12,Hexagonal, [Kr] 4d10 5s2 ,1817,8650,metales_transicion,5,12
+49,In,Indio,"114,8",5,13,Tetragonal centrada en el cuerpo, [Kr] 4d10 5s2 5p1 ,1863,7310,metales_bloque_p,5,13
+50,Sn,Estaño,"118,7",5,14,Tetragonal centrada en el cuerpo, [Kr] 4d10 5s2 5p2 ,Prehistoria,7365,metales_bloque_p,5,14
+51,Sb,Antimonio,"121,7",5,15,Romboedrica, [Kr] 4d10 5s2 5p3 ,Prehistoria,6697,metaloides,5,15
+52,Te,Telurio,"127,6",5,16,Hexagonal, [Kr] 4d10 5s2 5p4 ,1782,6240,metaloides,5,16
+53,I,Yodo,"126,9",5,17,Ortorrombica centrada en las bases, [Kr] 4d10 5s2 5p5 ,1811,4930,halogenos,5,17
+54,Xe,Xenon,"131,2",5,18,Cubica centrada en las caras, [Kr] 4d10 5s2 5p6 ,1898,"5,9",gases_nobles,5,18
+55,Cs,Cesio,"132,9",6,1,Cubica centrada en el cuerpo, [Xe] 6s1,1860,1879,metales_alcalinos,6,1
+56,Ba,Bario,"137,3",6,2,Cubica centrada en el cuerpo, [Xe] 6s2,1808,3620,metales_alcalinoterreos,6,2
+72,Hf,Hafnio,"178,4",6,4,Hexagonal, [Xe] 4f14 5d2 6s2,1923,13310,metales_transicion,6,4
+73,Ta,Tantalio,"180,9",6,5,Cubica centrada en el cuerpo, [Xe] 4f14 5d3 6s2,1802,16650,metales_transicion,6,5
+74,W,Wolframio,"183,8",6,6,Cubica centrada en el cuerpo, [Xe] 4f14 5d4 6s2,1783,19600,metales_transicion,6,6
+75,Re,Renio,"186,2",6,7,Hexagonal, [Xe] 4f14 5d5 6s2,1925,21020,metales_transicion,6,7
+76,Os,Osmio,"190,2",6,8,Hexagonal, [Xe] 4f14 5d6 6s2,1803,22610,metales_transicion,6,8
+77,Ir,Iridio,"192,2",6,9,Cubica centrada en las caras, [Xe] 4f14 5d7 6s2,1803,22560,metales_transicion,6,9
+78,Pt,Platino,"195,0",6,10,Cubica centrada en las caras, [Xe] 4f14 5d9 6s1,1735,21450,metales_transicion,6,10
+79,Au,Oro,"196,9",6,11,Cubica centrada en las caras, [Xe] 4f14 5d10 6s1,Prehistoria,19300,metales_transicion,6,11
+80,Hg,Mercurio,"200,5",6,12,Romboedrica, [Xe] 4f14 5d10 6s2,Prehistoria,13534,metales_transicion,6,12
+81,Tl,Talio,"204,3",6,13,Hexagonal, [Xe] 4f14 5d10 6s2 6p1,1861,11850,metales_bloque_p,6,13
+82,Pb,Plomo,"207,2",6,14,Cubica centrada en las caras, [Xe] 4f14 5d10 6s2 6p2,Prehistoria,11340,metales_bloque_p,6,14
+83,Bi,Bismuto,"208,9",6,15,Romboedrica, [Xe] 4f14 5d10 6s2 6p3,1753,9780,metales_bloque_p,6,15
+84,Po,Polonio,"208,9",6,16,Cubica simple, [Xe] 4f14 5d10 6s2 6p4,1898,9196,metaloides,6,16
+85,At,Astato,"209,9",6,17,Estructura desconocida, [Xe] 4f14 5d10 6s2 6p5,1940,-,halogenos,6,17
+86,Rn,Radon,"222,0",6,18,Cubica centrada en las caras, [Xe] 4f14 5d10 6s2 6p6,1900,"9,73",gases_nobles,6,18
+87,Fr,Francio,"223,0",7,1,Estructura desconocida, [Rn] 7s1 ,1939,1870,metales_alcalinos,7,1
+88,Ra,Radio,"226,0",7,2,Cubica centrada en el cuerpo, [Rn] 7s2 ,1898,5500,metales_alcalinoterreos,7,2
+104,Rf,Rutherfordio,"261,1",7,4,Estructura desconocida, [Rn] 5f14 6d2 7s2,1964-1969,-,metales_transicion,7,4
+105,Db,Dubnio,"262,1",7,5,Estructura desconocida, [Rn] 5f14 6d3 7s2,1967-1970,-,metales_transicion,7,5
+106,Sg,Seaborgio,"263,1",7,6,Estructura desconocida, [Rn] 5f14 6d4 7s2,1974,-,metales_transicion,7,6
+107,Bh,Bohrio,"262,1",7,7,Estructura desconocida, [Rn] 5f14 6d5 7s2,1976,-,metales_transicion,7,7
+108,Hs,Hassio,265,7,8,Estructura desconocida, [Rn] 5f14 6d6 7s2,1984,-,metales_transicion,7,8
+109,Mt,Meitnerio,266,7,9,Estructura desconocida, [Rn] 5f14 6d7 7s2,1982,-,metales_transicion,7,9
+110,Ds,Darmstadtio,269,7,10,Estructura desconocida, [Rn] 5f14 6d9 7s1,1994,-,metales_transicion,7,10
+111,Rg,Roentgenio,272,7,11,Estructura desconocida, [Rn] 5f14 6d10 7s1,1994,-,metales_transicion,7,11
+112,Cn,Copernicio,285,7,12,Estructura desconocida, [Rn] 5f14 6d10 7s2,1996,-,metales_transicion,7,12
+113,Nh,Nihonio,284,7,13,Estructura desconocida, [Rn] 5f14 6d10 7s2 7p1,2004,16,metales_bloque_p,7,13
+114,Fl,Flerovio,289,7,14,Estructura desconocida, [Rn] 5f14 6d10 7s2 7p2,1999,14,metales_bloque_p,7,14
+115,Mc,Moscovio,288,7,15,Estructura desconocida, [Rn] 5f14 6d10 7s2 7p3,2004,-,metales_bloque_p,7,15
+116,Lv,Livermorio,290,7,16,Estructura desconocida, [Rn] 5f14 6d10 7s2 7p4,2006,-,metales_bloque_p,7,16
+117,Ts,Tenesino,-,7,17,Estructura desconocida, [Rn] 5f14 6d10 7s2 7p5,2009-2010,-,halogenos,7,17
+118,Og,Oganeson,294,7,18,Estructura desconocida, [Rn] 5f14 6d10 7s2 7p6,2006,"13,65",gases_nobles,7,18
+57,La,Lantano,"138,9",6,-,Hexagonal, [Xe] 5d1 6s2,1839,6146,lantanidos,10,4
+58,Ce,Cerio,"140,1",6,-,Cubica centrada en las caras, [Xe] 4f2 6s2,1803,6689,lantanidos,10,5
+59,Pr,Praseodimio,"140,9",6,-,Hexagonal, [Xe] 4f3 6s2,1895,6640,lantanidos,10,6
+60,Nd,Neodimio,"144,2",6,-,Hexagonal, [Xe] 4f4 6s2,1895,6800,lantanidos,10,7
+61,Pm,Prometio,"146,9",6,-,Hexagonal, [Xe] 4f5 6s2,1945,7264,lantanidos,10,8
+62,Sm,Samario,"150,3",6,-,Romboedrica, [Xe] 4f6 6s2,1879,7353,lantanidos,10,9
+63,Eu,Europio,"151,9",6,-,Cubica centrada en el cuerpo, [Xe] 4f7 6s2,1901,5244,lantanidos,10,10
+64,Gd,Gadolin,"157,2",6,-,Hexagonal, [Xe] 4f7 6s2,1880,7901,lantanidos,10,11
+65,Tb,Terbio,"158,9",6,-,Hexagonal, [Xe] 4f9 6s2,1843,8219,lantanidos,10,12
+66,Dy,Disprosio,"162,5",6,-,Hexagonal, [Xe] 4f10 6s2,1886,8551,lantanidos,10,13
+67,Ho,Holmio,"164,9",6,-,Hexagonal, [Xe] 4f11 6s2,1878,8800,lantanidos,10,14
+68,Er,Erbio,"167,2",6,-,Hexagonal, [Xe] 4f12 6s2,1842,9066,lantanidos,10,15
+69,Tm,Tulio,"168,9",6,-,Hexagonal, [Xe] 4f13 6s2,1879,9321,lantanidos,10,16
+70,Yb,Iterbio,"173,0",6,-,Cubica centrada en las caras, [Xe] 4f14 6s2,1878,6965,lantanidos,10,17
+89,Ac,Actinio,"227,0",7,-,Cubica centrada en las caras, [Rn] 6d1 7s2 ,1899,"10,070",actinidos,11,4
+90,Th,Torio,"232,0",7,-,Cubica centrada en las caras, [Rn] 6d2 7s2 ,1829,11724,actinidos,11,5
+91,Pa,Protactinio,"231,0",7,-,Tetragonal centrada en el cuerpo, [Rn] 5f2 6d1 7s2 ,1917,15370,actinidos,11,6
+92,U,Uranio,"238,0",7,-,Ortorrombica centrada en las bases, [Rn] 5f3 6d1 7s2 ,1789,"19,050",actinidos,11,7
+93,Np,Neptunio,"237,0",7,-,Monoclinica simple, [Rn] 5f4 6d1 7s2 ,1940,20250,actinidos,11,8
+94,Pu,Plutonio,"244,0",7,-,Monoclinica simple, [Rn] 5f6 7s2 ,1940,19816,actinidos,11,9
+95,Am,Americio,"243,0",7,-,Hexagonal, [Rn] 5f7 7s2 ,1944,"13,670",actinidos,11,10
+96,Cm,Curio,"247,0",7,-,Hexagonal, [Rn] 5f7 6d1 7s2 ,1944,13510,actinidos,11,11
+97,Bk,Berkelio,"247,0",7,-,Hexagonal, [Rn] 5f9 7s2 ,1949,-,actinidos,11,12
+98,Cf,Californio,"251,0",7,-,Hexagonal, [Rn] 5f10 7s2 ,1950,15100,actinidos,11,13
+99,Es,Einstenio,"252,0",7,-,Hexagonal, [Rn] 5f11 7s2 ,1952,"8,84",actinidos,11,14
+100,Fm,Fermio,"257,0",7,-,Estructura desconocida, [Rn] 5f12 7s2 ,1952,-,actinidos,11,15
+101,Md,Mendelevio,"258,0",7,-,Estructura desconocida, [Rn] 5f13 7s2 ,1955,-,actinidos,11,16
